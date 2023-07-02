@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoDesarrollo.B.P
+build_property.RootNamespace = ProyectoDesarrollo.B.P
+build_property.ProjectDir = C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Producto/Catalogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ2F0YWxvZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Producto/Comprar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ29tcHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Proyecto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJveWVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Proyecto/ListarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJveWVjdG9cTGlzdGFyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Proyecto/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJveWVjdG9cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Proyecto/Pagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJveWVjdG9cUGFnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Proyecto/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJveWVjdG9cUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/TemporalVenta/VerCarrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcG9yYWxWZW50YVxWZXJDYXJyaXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Downloads/ProyectoDesarrollo.B.P/ProyectoDesarrollo.B.P/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vte0qygi2x

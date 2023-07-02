@@ -1,0 +1,599 @@
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Users\ACER\source\repos\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CopyComplete
+C:\Users\DELL\Videos\PROYECTO FINAL_DESARROLLO BASADO EN PLATAFORMAS\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Humanizer.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CopyComplete
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Users\FABIAN\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CopyComplete
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Users\ingeneria\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CopyComplete
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Users\DELL\Music\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CopyComplete
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.forms.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.io.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.layout.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.sign.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.svg.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.commons.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.html2pdf.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itextsharp.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\PdfSharpCore.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\dell\Downloads\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.Development.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\appsettings.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.staticwebassets.runtime.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.exe
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.deps.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.runtimeconfig.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Core.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Azure.Identity.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Humanizer.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.barcodes.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.forms.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.io.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.kernel.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.layout.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.pdfa.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.sign.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.svg.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.commons.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itext.html2pdf.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\itextsharp.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\PdfSharpCore.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.CodeDom.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Text.Json.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.AssemblyReference.cache
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfoInputs.cache
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.AssemblyInfo.cs
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cache
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.RazorAssemblyInfo.cs
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoDesarrollo.B.P.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoDesarrollo.B.P.props
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoDesarrollo.B.P.props
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoDesarrollo.B.P.props
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\bundle\ProyectoDesarrollo.B.P.styles.css
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoDesarrollo.B.P.bundle.scp.css
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.csproj.CopyComplete
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\refint\ProyectoDesarrollo.B.P.dll
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.pdb
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ProyectoDesarrollo.B.P.genruntimeconfig.cache
+C:\Proyectos Visual\ProyectoDesarrollo.B.P\ProyectoDesarrollo.B.P\obj\Debug\net6.0\ref\ProyectoDesarrollo.B.P.dll

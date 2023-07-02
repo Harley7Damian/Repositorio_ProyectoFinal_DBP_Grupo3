@@ -1,0 +1,128 @@
+﻿@model IEnumerable<ProyectoDesarrollo.B.P.Models.TemporalVenta>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f2f2f2;
+        }
+
+        h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            font-weight: bold;
+        }
+
+        td {
+            color: #333;
+        }
+
+        input[type="number"] {
+            width: 50px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .message {
+            margin-top: 10px;
+            color: #f00;
+            font-style: italic;
+        }
+
+        .total {
+            text-align: right;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+
+        .subtotal {
+            text-align: right;
+            margin-top: 10px;
+        }
+
+        .igv {
+            text-align: right;
+        }
+        </style>
+   
+</head>
+<body>
+    <h3>CARRITO DE COMPRAS</h3>
+    <table>
+        <tr>
+            <th>Código</th>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Eliminar</th>
+            <th>Modificar</th>
+        </tr>
+        <tbody>
+         
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.codigo</td>
+                    <td>@item.nombre</td>
+                    <td>@item.precio</td>
+                    <td>@item.cantidad</td>
+                    <td><a asp-action="Eliminar" asp-route-id="@item.codigo">Eliminar</a></td>
+                    <td><a asp-action="Modificar" asp-route-id="@item.codigo">Editar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="subtotal">
+        Subtotal: @Model.Sum(c => Math.Round((c.precio * c.cantidad) - (c.precio * c.cantidad * 0.18),2))
+    </div>
+    <div class="igv">
+        IGV: @Model.Sum(c => Math.Round(c.precio * c.cantidad * 0.18, 2))
+    </div>
+    <div class="total">
+        Total: @Model.Sum(c => Math.Round(c.precio * c.cantidad, 2))
+    </div>
+</body>
+</html>

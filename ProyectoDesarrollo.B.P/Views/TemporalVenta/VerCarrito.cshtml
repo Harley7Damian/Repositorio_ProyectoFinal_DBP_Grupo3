@@ -1,0 +1,143 @@
+﻿@using Newtonsoft.Json
+@model IEnumerable<ProyectoDesarrollo.B.P.Models.TemporalVenta>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+           
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f2f2f2;
+        }
+
+        h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            font-weight: bold;
+        }
+
+        td {
+            color: #333;
+        }
+
+        input[type="number"] {
+            width: 50px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .message {
+            margin-top: 10px;
+            color: #f00;
+            font-style: italic;
+        }
+
+        .total {
+            text-align: right;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+
+        .subtotal {
+            text-align: right;
+            margin-top: 10px;
+        }
+
+        .igv {
+            text-align: right;
+        }
+        </style>
+   
+</head>
+<body>
+    <h3>CARRITO DE COMPRAS</h3>
+    <table>
+        <tr>
+            <th>Código</th>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th></th> <!-- Columna para el botón de eliminar -->
+        </tr>
+        <tbody>
+            @foreach (var clon in Model)
+            {
+                <tr>
+                    <td>@clon.codigo</td>
+                    <td>@clon.nombre</td>
+                    <td>@clon.precio</td>
+                    <td>@clon.cantidad</td>
+                    <td>
+                        <form asp-controller="TemporalVenta" asp-action="VerCarrito" asp-route-id="@clon.codigo" method="post">
+                            <input type="hidden" name="codigo" value="@clon.codigo" />
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+
+            }
+            <tr>
+                <td colspan="5" style="text-align: right;">
+                    <form asp-controller="Usuario" asp-action="Login" method="post">
+                        <button type="submit" class="btn btn-primary">Comprar</button>
+                    </form>
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    @{
+        double subtotal = Model.Sum(c => (c.precio * c.cantidad) - (c.precio * c.cantidad * 0.18));
+        double igv = Model.Sum(c => c.precio * c.cantidad * 0.18);
+        double total = Model.Sum(c => c.precio * c.cantidad);
+    }
+
+    <div class="subtotal">
+        Subtotal: @Math.Round(subtotal, 2)
+    </div>
+    <div class="igv">
+        IGV: @Math.Round(igv, 2)
+    </div>
+    <div class="total">
+        Total: @Math.Round(total, 2)
+    </div>
+</body>
+
+</html>
